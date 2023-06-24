@@ -5,4 +5,6 @@ Bash scripts for use with Mavenlink REST API<br>
 Script dependent on<br>
 - access token in a file called token.txt<br>
 - output subdirectory called "output"<br>
+- correct path to bash<br>
+- correct path to python3<br>
 scripts leave behind a .json file from the REST API call to Mavenlink
